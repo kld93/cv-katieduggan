@@ -1,0 +1,62 @@
+---
+title: "Katie Duggan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+``` {css, echo=FALSE}
+h1, h2 {
+  text-align: center
+}
+```
+
+## linkedin.com/in/katieduggan802
+## E: kld93@cornell.edu, C: (802) 393-0819
+
+### **Education**
+
+#### *Cornell University* [2021 - Present]{style="float:right"}
+
+PhD Student
+<br>
+- College of Agriculture and Life Sciences
+<br>
+- Department of Biological and Environmental Engineering (BEE)
+
+#### *Syracuse University* [2014 - 2018]{style="float:right"}
+
+Bachelor of Science
+<br>
+- College of Engineering and Computer Science
+<br>
+- Department of Civil and Environmental Engineering (CIE)
+
+### **Employment**
+
+#### *Arcadis US, Inc.* [2018 - 2021]{style="float:right"}
+
+Environmental Engineer 2
+<br>
+- College of Agriculture and Life Sciences
+<br>
+- Department of Biological and Environmental Engineering (BEE)
+
+### **Publications**
+
+#### *ASCE Journal of Hazardous, Toxic, and Radioactive Waste* [2019]{style="float:right"}
+
+'Effects of Cationic Polyacrylamide and Cationic Starch on Aquatic Life'
+
+### **Specialized Skills**
+Programs/Software:
+<br>
+- AutoCAD/Civil3D, HydroCAD/TR-55, TerraModel, RUSLE2, HELP Model, HEC-RAS, RStudio, GitHub
+<br>
+Certifications:
+<br>
+- Engineer in Training (EIT), Envision Sustainability Professional (ENV SP), OSHA 40-hr HazWoper (with First-Aid)
+
+
