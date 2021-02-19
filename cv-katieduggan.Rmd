@@ -18,7 +18,7 @@ h1, h2 {
 
 ### **Education**
 
-#### *Cornell University* [2021 - Present]{style="float:right"}
+#### *Conell University* [2021 - Present]{style="float:right"}
 
 PhD Student
 <br>
@@ -34,9 +34,9 @@ Bachelor of Science
 <br>
 - Department of Civil and Environmental Engineering (CIE)
 
-### **Employment**
+### **Emploment**
 
-#### *Arcadis US, Inc.* [2018 - 2021]{style="float:right"}
+#### *Arcdis US, Inc.* [2018 - 2021]{style="float:right"}
 
 Environmental Engineer 2
 <br>
@@ -48,7 +48,7 @@ Environmental Engineer 2
 
 #### *ASCE Journal of Hazardous, Toxic, and Radioactive Waste* [2019]{style="float:right"}
 
-'Effects of Cationic Polyacrylamide and Cationic Starch on Aquatic Life'
+'Effects of Cationic Polyacrylamide and Cationic Starchh on Aquatic Life'
 
 ### **Specialized Skills**
 Programs/Software:
