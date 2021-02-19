@@ -13,12 +13,12 @@ h1, h2 {
 }
 ```
 
-## linkedin.com/in/katieduggan802
-## E: kld93@cornell.edu, C: (802) 393-0819
+<center> linkedin.com/in/katieduggan802 </center>
+<center> E: kld93@cornell.edu, C: (802) 393-0819 </center>
 
 ### **Education**
 
-#### *Conell University* [2021 - Present]{style="float:right"}
+#### *Cornell University* [2021 - Present]{style="float:right"}
 
 PhD Student
 <br>
@@ -40,15 +40,16 @@ Bachelor of Science
 
 Environmental Engineer 2
 <br>
-- College of Agriculture and Life Sciences
+
+* Perform calculations, research, and modeling to aid in site design, construction support/design-build, hydrologic and hydraulic reports, Erosion and Sediment Control Plans (ESCP), Stormwater Pollution Prevention Plans (SWPPP), etc
 <br>
-- Department of Biological and Environmental Engineering (BEE)
+* Field work: preliminary site investigation, construction progress inspection, drilling oversight, and soil classification
 
 ### **Publications**
 
 #### *ASCE Journal of Hazardous, Toxic, and Radioactive Waste* [2019]{style="float:right"}
 
-'Effects of Cationic Polyacrylamide and Cationic Starchh on Aquatic Life'
+'Effects of Cationic Polyacrylamide and Cationic Starch on Aquatic Life'
 
 ### **Specialized Skills**
 Programs/Software:
